@@ -6,7 +6,7 @@ from model import Model
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--test", action="store_true")
-parser.add_argument("--data_path", action="store")
+parser.add_argument("--data_path", action="store",default="train_data")
 args = parser.parse_args()
 preprocessor = Preprocessor()
 model = Model()
