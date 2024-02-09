@@ -14,4 +14,4 @@ Numpy 1.26.3\
 Pandas 2.2.0\
 Pip 23.2.1\
 Pyarrow 15.0.0\
-Scikit-Learn 1.4.0\
+Scikit-Learn 1.4.0
