@@ -1,5 +1,5 @@
 # ICU_Classification
-How to run
+How to run\
 1.Run run_pipeline to fit on some data or use train_data(default) (without --test argument). Use --data_path argument to add path to data.\
 2.This will create a model and a preprocessor should be saved in the same directory as finalized_preprocessor.sav and finalized_model.sav\
 3.Next run run_pipeline to test on some data (with --test argument)\
